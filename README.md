@@ -1,7 +1,9 @@
 Date:-2022.03.12
 Pactical No:-01
 Problem Specification:-My First Java Program
+
 Implementation:-
+
 class MyFirstProgram
 {
 public static void main(String args[])
@@ -16,9 +18,13 @@ Hello Java Developers !!!
 Conclusion:-I have learned the syntax of main method and printstatement
 
 Date:-2022.03.12
+
 Pactical No:-02
+
 Problem Specification:-How to use Print Statement
+
 Implementation:-
+
 class Ex02
 {
 public static void main(String args[]) {
